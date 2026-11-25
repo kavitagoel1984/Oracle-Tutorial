@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="./assets/oracle-unit1-banner.svg" alt="Oracle Unit I: a friendly BBACAM first-year learning hub" width="100%">
-  <br><br>
-  <a href="#start-here"><img src="https://img.shields.io/badge/START_HERE-Open_the_tutorial-137c8b?style=for-the-badge" alt="Start here: open the tutorial"></a>
-  <a href="#six-short-lessons"><img src="https://img.shields.io/badge/6-SHORT_LESSONS-f2b544?style=for-the-badge&labelColor=142d4e" alt="Six short lessons"></a>
-  <a href="#check-your-understanding"><img src="https://img.shields.io/badge/LEARN-Then_check-ef7d63?style=for-the-badge" alt="Learn then check"></a>
-</div>
+![Oracle Unit I Learning Hub](https://raw.githubusercontent.com/kavitagoel1984/Oracle-Tutorial/main/assets/oracle-unit1-banner.svg)
+
+[![Start here](https://img.shields.io/badge/START_HERE-Open_the_tutorial-137c8b?style=for-the-badge)](#start-here) [![Six short lessons](https://img.shields.io/badge/6-SHORT_LESSONS-f2b544?style=for-the-badge&labelColor=142d4e)](#six-short-lessons) [![Quick checks](https://img.shields.io/badge/LEARN-Then_check-ef7d63?style=for-the-badge)](#check-your-understanding)
 
 # Oracle Unit I Learning Hub
 
