@@ -14,6 +14,8 @@ Welcome! This course space is for **BBACAM first-year students**. Learn one smal
 |:--|:--|:--|
 | [Open the beginner tutorial](unit-1/Oracle_Unit_I_BBACAM_Tutorial.docx) | [Browse all six slide lessons](#six-short-lessons) | [Jump to quick checks](#check-your-understanding) |
 
+🎨 **Visual assets:** [Browse the assets folder](assets/).
+
 The tutorial explains each topic in simple language, with SQL examples and narration scripts. The lesson decks are short, colourful, and caption-first; present them as slides or record them as video lessons.
 
 ## Six short lessons
