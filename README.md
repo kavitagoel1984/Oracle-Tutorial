@@ -1,4 +1,4 @@
-![Oracle Unit I Learning Hub](https://raw.githubusercontent.com/kavitagoel1984/Oracle-Tutorial/main/assets/oracle-unit1-banner.svg)
+![Oracle Unit I Learning Hub](https://raw.githubusercontent.com/kavitagoel1984/Oracle-Tutorial/main/assets/oracle-unit2-banner.svg)
 
 [![Start here](https://img.shields.io/badge/START_HERE-Open_the_tutorial-137c8b?style=for-the-badge)](#start-here) [![Six short lessons](https://img.shields.io/badge/6-SHORT_LESSONS-f2b544?style=for-the-badge&labelColor=142d4e)](#six-short-lessons) [![Quick checks](https://img.shields.io/badge/LEARN-Then_check-ef7d63?style=for-the-badge)](#check-your-understanding)
 
